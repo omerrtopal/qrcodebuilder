@@ -23,3 +23,4 @@ while True:
         break
 
 print("This program is created omertopal")
+print("Thank you for using.")
